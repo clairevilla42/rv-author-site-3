@@ -176,6 +176,11 @@ img {
   align-items: center;
 }
 
+.about-img {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 /* ========================= books page =========================== */
 
 
